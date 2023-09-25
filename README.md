@@ -112,6 +112,7 @@ TaskTrack is built using the following technologies:
 
 - **Deployment**:
   - Deployment options include Heroku, AWS, or any other hosting provider of your choice.
+  - I used Render and Netlify
 
 ## Contributing
 
