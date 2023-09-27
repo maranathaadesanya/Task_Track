@@ -94,7 +94,7 @@ TaskTrack is built using the following technologies:
 
 - **Frontend**:
   - React: A JavaScript library for building user interfaces.
-  - Redux: A state management library for managing application state.
+  - Cors: A state management library for managing application state.
   - Axios: A promise-based HTTP client for making API requests.
 
 - **Backend**:
@@ -112,6 +112,7 @@ TaskTrack is built using the following technologies:
 
 - **Deployment**:
   - Deployment options include Heroku, AWS, or any other hosting provider of your choice.
+  - I used Render and Netlify
 
 ## Contributing
 
