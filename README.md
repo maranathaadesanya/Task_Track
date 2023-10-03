@@ -130,4 +130,4 @@ Thank you for using TaskTrack! If you encounter any issues or have suggestions f
 
 [TaskTrack Demo](https://tasktracc.netlify.app/)
 
-![TaskTrack Screenshot](screenshot.jpeg)
+![TaskTrack Screenshot](TT.png)
