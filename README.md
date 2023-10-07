@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src=![logo](https://github.com/maranathaadesanya/TaskTracc/blob/main/client/public/logo192.png)/>
+<img width="200" src="https://github.com/maranathaadesanya/TaskTracc/blob/main/client/public/logo192.png" alt="logo"/>
 </p>
 # TaskTrack App
 
