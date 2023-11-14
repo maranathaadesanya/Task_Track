@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TASKTRACK",
+  "name": "A TO-DO LIST APPLICATION",
   "icons": [
     {
       "src": "favicon.ico",
